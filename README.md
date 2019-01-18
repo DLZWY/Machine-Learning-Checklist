@@ -4,8 +4,8 @@
 ## 模型实现  
 ### 1、推荐系统  
 * [wide&deep](https://github.com/DLZWY/Machine-Learning-Checklist/tree/master/recommend/wide-deep) (zhaowei555) 
-* [deepFM] (https://github.com/DLZWY/Machine-Learning-Checklist/tree/master/recommend/deepFM)(zhaowei555)
-* [NCF] (https://github.com/DLZWY/Machine-Learning-Checklist/tree/master/recommend/ncf) (zhaowei555)
+* [deepFM](https://github.com/DLZWY/Machine-Learning-Checklist/tree/master/recommend/deepFM)(zhaowei555)
+* [NCF](https://github.com/DLZWY/Machine-Learning-Checklist/tree/master/recommend/ncf) (zhaowei555)
 * DeepInterestNetwork   
 * Deep Interest Evolution Network  
 * NFM  
