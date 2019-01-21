@@ -20,7 +20,7 @@
 * textrnn  
 * [HierarchicalAttentionNetwork](https://github.com/DLZWY/Machine-Learning-Checklist/tree/master/nlp/han) (zhaowei555)
 * EntityNetwork  
-* DynamicMemoryNet  
+* [DynamicMemoryNet](https://github.com/DLZWY/Machine-Learning-Checklist/tree/master/nlp/dmn)(zhaowei555)
 * Seq2seq  
 * Transformer   
 
