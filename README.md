@@ -15,7 +15,7 @@
 * ALS
 
 ### 2、自然语言处理  
-* fasttext  
+* [fasttext](https://github.com/DLZWY/Machine-Learning-Checklist/tree/master/nlp/fasttext)(zhaowei555)
 * [textcnn](https://github.com/DLZWY/Machine-Learning-Checklist/tree/master/nlp/textcnn)(zhaowei555)
 * textrnn  
 * [HierarchicalAttentionNetwork](https://github.com/DLZWY/Machine-Learning-Checklist/tree/master/nlp/han) (zhaowei555)
