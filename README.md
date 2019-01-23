@@ -29,7 +29,7 @@
 * [DQN](https://github.com/DLZWY/Machine-Learning-Checklist/tree/master/rl/DQN)
 * [DuelingDQN](https://github.com/DLZWY/Machine-Learning-Checklist/tree/master/rl/Dueling_DQN)
 * [PrioritisedDQN](https://github.com/DLZWY/Machine-Learning-Checklist/tree/master/rl/Prioritised_DQN)
-* [Double DQN](https://github.com/DLZWY/Machine-Learning-Checklist/tree/master/rl/DDQN）
+* [Double DQN](https://github.com/DLZWY/Machine-Learning-Checklist/tree/master/rl/DDQN)
 * Policy_Gradient  
 * A2C  
 * A3C  
