@@ -25,7 +25,7 @@
 * Transformer   
 
 ### 3、强化学习  
-* q_learning  
+* [q_learning](https://github.com/DLZWY/Machine-Learning-Checklist/tree/master/rl/Q-learning)
 * [DQN](https://github.com/DLZWY/Machine-Learning-Checklist/tree/master/rl/DQN)
 * [DuelingDQN](https://github.com/DLZWY/Machine-Learning-Checklist/tree/master/rl/Dueling_DQN)
 * [PrioritisedDQN](https://github.com/DLZWY/Machine-Learning-Checklist/tree/master/rl/Prioritised_DQN)
